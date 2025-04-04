@@ -3,7 +3,7 @@
   "displayName": "Live Smiles Visualization",
   "description": "Render Molecular Structures based on SMILES strings",
   "publisher": "JanoschMenke",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "images/image.png",
   "engines": {
     "vscode": "^1.90.0"
